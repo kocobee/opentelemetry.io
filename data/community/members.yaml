@@ -2037,6 +2037,11 @@ approvers:
       - docs-ja-approvers
     html_url: https://github.com/kohbis
     avatar_url: https://avatars.githubusercontent.com/u/18735471?v=4
+  - name: kota-sakuma
+    teams:
+      - docs-ja-approvers
+    html_url: https://github.com/kota-sakuma
+    avatar_url: https://avatars.githubusercontent.com/u/98725121?v=4
   - name: kpratyus
     teams:
       - cpp-contrib-approvers
